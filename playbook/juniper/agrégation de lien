@@ -59,7 +59,7 @@
       loop: "{{ interface_physique }}"
 
 
-Variables:
+Exemple de variables:
 {
   "interface_logique": "ae0",
   "delete_interfaces": ["delete interfaces ge-0/0/20", "delete interfaces ge-0/0/21","delete interfaces ae0"],
