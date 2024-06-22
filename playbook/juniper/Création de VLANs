@@ -61,7 +61,7 @@
               allowed_vlans: "{{ trunk_members }}"
       when: vlan_trunk == "True"
 
-Variables:
+exemple de Variables:
 {
 	"vlan_names": ["test27","test28"],
   "vlan_ids": [27,28],
